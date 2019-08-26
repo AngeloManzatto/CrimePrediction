@@ -1,0 +1,8 @@
+# Directories
+dataset/
+saved_models/*
+los_angeles/los_angeles_cr*.*
+los_angeles/sftt*.*
+los_angeles/saved_models
+
+# Files
